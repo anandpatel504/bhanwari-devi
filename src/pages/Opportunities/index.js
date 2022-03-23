@@ -5,6 +5,7 @@ import { METHODS } from "../../services/api";
 import "./styles.scss";
 import { getQueryVariable } from "../../common/utils";
 
+
 function Opportunities() {
   const [partner, setPartner] = useState([]);
   const user = useSelector(({ User }) => User);
