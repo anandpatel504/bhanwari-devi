@@ -65,7 +65,7 @@ const concernsText = [
     description: "Learn through interactive classes and self study material",
   },
   {
-    description: "I have never typed on a computer keyboard before",
+    description: "I have never typed on a computer keyboard before hello komal and Poonam",
   },
   {
     description: "I face difficulty in understanding and speaking English",
